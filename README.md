@@ -10,7 +10,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgia&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
