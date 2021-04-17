@@ -13,6 +13,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aytugsevgi&show_icons=true&locale=en" alt="aytugsevgi" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aytugsevgi&" alt="aytugsevgi" /></p>
 
