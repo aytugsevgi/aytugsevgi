@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aytugsevgi&" alt="aytugsevgi" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
