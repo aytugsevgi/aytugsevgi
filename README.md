@@ -5,3 +5,4 @@
 
 - I have been developing myself in this area with auxiliary courses for the last 6 months due to my interest in native ios mobile development. I know the importance of writing clean code and multi-level architecture. I always try to improve myself in this regard. I have always been a researcher and a curious person for new technologies. I am a fast learner, motivated self-starter, team player with strong communication and problem solving skills. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
