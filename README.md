@@ -10,7 +10,7 @@
 
 <br/> <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aytugsevgi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -18,8 +18,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aytugsevgi&" alt="aytugsevgi" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/aytugsevgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aytugsevgi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14686812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14686812" height="30" width="40" /></a>
 <a href="https://instagram.com/aytugsevgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aytugsevgi" height="30" width="40" /></a>
