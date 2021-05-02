@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aytugsevgi" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/128/000000/linkedin.png" alt="aytugsevgi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aytugsevgi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="aytugsevgi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14686812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14686812" height="30" width="40" /></a>
 <a href="https://instagram.com/aytugsevgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aytugsevgi" height="30" width="40" /></a>
 <a href="https://medium.com/@aytugsevgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aytugsevgi" height="30" width="40" /></a>
