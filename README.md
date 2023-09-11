@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aytuğ Sevgi</h1>
 <h3 align="center">I graduated from Ege University Computer Engineering.</h3>
 
-👨‍💻 **I have been interested in mobile application development for 3 years. I am currently working as an iOS developer in Trendyol.**
+👨‍💻 **I have been interested in mobile application development. I am currently working as an iOS developer in Trendyol.**
 
 
 
